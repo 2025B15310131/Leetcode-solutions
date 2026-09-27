@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/2025B15310131/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/2025B15310131/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/2025B15310131/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/2025B15310131/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
